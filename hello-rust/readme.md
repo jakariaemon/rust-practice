@@ -20,7 +20,7 @@ Rust is an ahead-of-time compiled language, meaning you can compile a program an
 cargo build
 ./target/debug/hello_cargo # or .\target\debug\hello_cargo.exe on Windows
 ``` 
-= We can also use cargo run to compile the code and then run the resultant executable all in one command 
+- We can also use cargo run to compile the code and then run the resultant executable all in one command 
 ```
 cargo run
 ```
