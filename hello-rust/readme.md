@@ -24,6 +24,6 @@ cargo build
 ```
 cargo run
 ```
-### Cargo also provides a command called cargo check. This command quickly checks your code to make sure it compiles but doesn’t produce an executable
+- Cargo also provides a command called cargo check. This command quickly checks your code to make sure it compiles but doesn’t produce an executable
 
-### When your project is finally ready for release, you can use cargo build --release to compile it
+- When your project is finally ready for release, you can use cargo build --release to compile it
